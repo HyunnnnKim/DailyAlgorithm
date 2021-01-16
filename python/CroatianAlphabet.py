@@ -8,7 +8,7 @@ def croatianAlphabet(alphabets):
             i += 1
         else:
             count += 1
-            alphabets = alphabets.replace(ca[i], '3', 1)
+            alphabets = alphabets.replace(ca[i], '3', 1) 
     alphabets = list(filter(('3').__ne__, alphabets))
     count += len(alphabets)
     return count
