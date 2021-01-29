@@ -50,9 +50,14 @@ def stars5(num):
     for i in range(num):
         print(' ' * (num - i - 1) + '*' * (i * 2 + 1))
 
+# Number 2447
+def stars10(num):
+    print('shit')
+
 n = int(input())
-stars1(n)
-stars2(n)
-stars3(n)
-stars4(n)
-stars5(n)
+#stars1(n)
+#stars2(n)
+#stars3(n)
+#stars4(n)
+#stars5(n)
+stars10(n)
