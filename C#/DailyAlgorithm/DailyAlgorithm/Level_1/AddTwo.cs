@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace DailyAlgorithm
+namespace DailyAlgorithm.Level_1
 {
     public class AddTwo
     {

@@ -12,7 +12,7 @@ def snailsDream(j):
 
 def rightSol(j):
     days = (j[2] - j[1]) / (j[0] - j[1])
-    return int(days) if days == int(days): int(days) - 1
+    return int(days) if days == int(days) else int(days) - 1
 
 journey = list(map(int, stdin.readline().strip().split()))
 print(snailsDream(journey))

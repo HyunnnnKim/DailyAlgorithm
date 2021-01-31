@@ -1,15 +1,18 @@
 ﻿<Properties StartupConfiguration="{BA729375-E567-4EFB-A7A4-6EDDC782A37F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="DailyAlgorithm/AddTwo.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DailyAlgorithm/Level_1/TernaryFlip.cs">
     <Files>
-      <File FileName="DailyAlgorithm/Program.cs" Line="16" Column="1" />
-      <File FileName="DailyAlgorithm/AddTwo.cs" Line="20" Column="55" />
+      <File FileName="DailyAlgorithm/Program.cs" Line="20" Column="2" />
+      <File FileName="DailyAlgorithm/Level_1/TernaryFlip.cs" Line="17" Column="46" NotebookId="1" />
+      <File FileName="DailyAlgorithm/Level_1/AddTwo.cs" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DailyAlgorithm" expanded="True">
             <Node name="DailyAlgorithm" expanded="True">
-              <Node name="AddTwo.cs" selected="True" />
+              <Node name="Level_1" expanded="True">
+                <Node name="TernaryFlip.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

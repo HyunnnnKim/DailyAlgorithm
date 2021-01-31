@@ -1,4 +1,5 @@
 ﻿using System;
+using DailyAlgorithm.Level_1;
 
 namespace DailyAlgorithm
 {
@@ -6,11 +7,14 @@ namespace DailyAlgorithm
     {
         static void Main(string[] args)
         {
-            string sNums = Console.ReadLine();
-            int[] iNums = Array.ConvertAll(sNums.Split(' '), n => int.Parse(n));
+            //string sNums = Console.ReadLine();
+            //int[] iNums = Array.ConvertAll(sNums.Split(' '), n => int.Parse(n));
+            //AddTwo addTwo = new AddTwo(iNums);
+            //addTwo.GetResult();
 
-            AddTwo addTwo = new AddTwo(iNums);
-            addTwo.GetResult();
+            int num = Convert.ToInt32(Console.ReadLine());
+            TernaryFlip ternaryFlip = new TernaryFlip(num);
+            ternaryFlip.GetResult();
         }
     }
 }
