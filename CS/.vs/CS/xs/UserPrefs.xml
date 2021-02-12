@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{992F8C80-BBFC-453C-B461-A09FB9117760}|Default">
+  <MonoDevelop.Ide.ItemProperties.CS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CS/Programmers/Level_1/TernaryFlip.cs">
+    <Files>
+      <File FileName="CS/Program.cs" Line="1" Column="1" />
+      <File FileName="CS/Baekjoon/BlackJack.cs" Line="6" Column="6" />
+      <File FileName="CS/Programmers/AddTwo.cs" Line="5" Column="25" />
+      <File FileName="CS/Programmers/DotProduct.cs" Line="3" Column="33" />
+      <File FileName="CS/Programmers/TernaryFlip.cs" Line="12" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CS" expanded="True">
+            <Node name="CS" expanded="True">
+              <Node name="Baekjoon" expanded="True" />
+              <Node name="Programmers" expanded="True">
+                <Node name="Level_1" expanded="True" />
+                <Node name="Level_2" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
